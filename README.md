@@ -5,7 +5,7 @@ Photos are not saved or uploaded anywhere.
 Just refresh and everything is gone.
 
 
-![ Alt text ]( https://raw.githubusercontent.com/driantn/photos-on-map/src/assets/images/example.gif )
+![ Alt text ]( https://raw.githubusercontent.com/driantn/photos-on-map/master/src/assets/images/example.gif )
 
 
 ## Getting Started
