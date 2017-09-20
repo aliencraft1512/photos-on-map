@@ -1,6 +1,4 @@
-# Project Title
-
-Photos on map
+# Photos on map
 
 This is a simple project to show photos on map by getting the gps location where the photo was taken.
 Photos are not saved or uploaded anywhere.
